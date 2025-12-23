@@ -3,10 +3,15 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/EvgenichF/Final_Task/blob/main/README.md#описание-проекта)
+
 [2. Какой кейс решаем?](https://github.com/EvgenichF/Final_Task/blob/main/README.md#какой-кейс-решаем)
-[3. Условия соревнования]()
+
+[3. Условия соревнования](https://github.com/EvgenichF/Final_Task/blob/main/README.md#условия-сорвенования)
+
 [4. Метрика качества](https://github.com/EvgenichF/Final_Task/blob/main/README.md#метрика-качества)
+
 [5. Результат](https://github.com/EvgenichF/Final_Task/blob/main/README.md#результат)
+
 
 
 ### Описание проекта
